@@ -8,3 +8,6 @@
 [Chrome DevTools — JS调试](https://segmentfault.com/a/1190000008396389)  
 [Chrome DevTools — Network](https://segmentfault.com/a/1190000008407729)  
 [Chrome DevTools — Timeline](https://segmentfault.com/a/1190000008608538) 
+
+# 源码
+[underscore.js源码的组织结构](https://segmentfault.com/a/1190000007963164)
